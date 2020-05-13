@@ -18,7 +18,6 @@ import Settings44414Navigator from '../features/Settings44414/navigator';
 import Settings44406Navigator from '../features/Settings44406/navigator';
 import UserProfile44404Navigator from '../features/UserProfile44404/navigator';
 import TutorialNavigator from '../features/Tutorial/navigator';
-import MapsNavigator from '../features/Maps/navigator';
 
 /**
  * new navigators can be imported here
@@ -42,7 +41,6 @@ Settings44414: { screen: Settings44414Navigator },
 Settings44406: { screen: Settings44406Navigator },
 UserProfile44404: { screen: UserProfile44404Navigator },
 Tutorial: { screen: TutorialNavigator },
-Maps: { screen: MapsNavigator },
 
     /** new navigators can be added here */
 };
