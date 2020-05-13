@@ -20,7 +20,6 @@ import UserProfile44404Navigator from '../features/UserProfile44404/navigator';
 import MessengerNavigator from '../features/Messenger/navigator';
 import TutorialNavigator from '../features/Tutorial/navigator';
 import MapsNavigator from '../features/Maps/navigator';
-import CalendarNavigator from '../features/Calendar/navigator';
 import CameraNavigator from '../features/Camera/navigator';
 import EmailAuthNavigator from '../features/EmailAuth/navigator';
 
@@ -48,7 +47,6 @@ UserProfile44404: { screen: UserProfile44404Navigator },
 Messenger: { screen: MessengerNavigator },
 Tutorial: { screen: TutorialNavigator },
 Maps: { screen: MapsNavigator },
-Calendar: { screen: CalendarNavigator },
 Camera: { screen: CameraNavigator },
 EmailAuth: { screen: EmailAuthNavigator },
 
