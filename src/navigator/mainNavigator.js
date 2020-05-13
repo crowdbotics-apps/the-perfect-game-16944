@@ -21,7 +21,6 @@ import MessengerNavigator from '../features/Messenger/navigator';
 import TutorialNavigator from '../features/Tutorial/navigator';
 import MapsNavigator from '../features/Maps/navigator';
 import CameraNavigator from '../features/Camera/navigator';
-import EmailAuthNavigator from '../features/EmailAuth/navigator';
 
 /**
  * new navigators can be imported here
@@ -48,7 +47,6 @@ Messenger: { screen: MessengerNavigator },
 Tutorial: { screen: TutorialNavigator },
 Maps: { screen: MapsNavigator },
 Camera: { screen: CameraNavigator },
-EmailAuth: { screen: EmailAuthNavigator },
 
     /** new navigators can be added here */
 };
